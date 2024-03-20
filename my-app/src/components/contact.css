@@ -1,0 +1,13 @@
+.neha {
+    border: 5px solid rgba(224, 148, 6, 0.921);
+    border-radius: 50%;
+    
+}
+
+.icon2 {
+    cursor: pointer;
+}
+.icon2:hover {
+    color: grey;
+    transition: .4s;
+}

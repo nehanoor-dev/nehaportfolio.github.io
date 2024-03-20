@@ -1,0 +1,15 @@
+.pro {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 10vh;
+    border-radius: 20px;
+ }
+ .pro:hover {
+    background: whitesmoke;
+    cursor: pointer;
+    transition: .4s;
+ }
+ .project {
+    padding: 10vh;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+  

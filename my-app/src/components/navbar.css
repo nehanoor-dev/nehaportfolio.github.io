@@ -1,0 +1,8 @@
+.navLinks {
+    cursor: pointer;
+}
+.navLinks:hover{
+    background: rgb(182, 179, 179);
+    transition: .4s;
+    border-radius: 10px;
+}

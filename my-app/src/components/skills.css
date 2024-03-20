@@ -1,0 +1,12 @@
+.skills {
+     height: 100vh;
+    padding: 20vh;
+}
+.icon {
+    color: grey;
+}
+.icon:hover {
+    color: black;
+    transition: .4s;
+    cursor: pointer;
+}
